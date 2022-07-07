@@ -291,4 +291,16 @@ background: #02cdf1;
     font-size: 1.6rem;
 }
 }
-
+/*media*/
+.media{
+    display: flex;
+}
+.media__title{
+    margin-top: 0;
+}
+.media__body{
+   margin: 0 2rem; 
+}
+.media__image{
+    margin-top: 1rem;
+}
